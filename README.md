@@ -1,5 +1,8 @@
 # eip-season4-batch1
 
+print(score)
+[0.024137128384215247, 0.9926]
+
 Convolution:
 Convolution is a process, which results in a single value produced by the weighted sum of the inputs from an interesting region of image/feature maps.
 
