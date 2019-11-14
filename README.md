@@ -9,12 +9,12 @@ To perform a convolution operation, weights are required. The structure in which
 Epoch:
 An epoch is said to be done when the model has gone through all the training samples and updated the necessary weights.
 
-1*1 Convolution:
+1x1 Convolution:
 Structure: 1*1 matrix style, 1 weight in every channel.
 This type of kernel is used in networks for organizing the feature maps fthrough channels i.e; combining or seperating the feature maps.
 Results in reducing the number of parameters in network.
 
-3*3 Convolution:
+3x3 Convolution:
 Structure: 3*3 matrix style, 9 weight in every channel.
 Father of all Kernels because the convolution effect produced by any kernel(kernel_size>3) can be reproduced with lesser number of parameters. Hence, this is the most common kernel used.
 
