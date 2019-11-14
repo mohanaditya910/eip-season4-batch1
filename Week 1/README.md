@@ -3,7 +3,7 @@
 print(score):
 [0.024137128384215247, 0.9926]
 
-Definations:
+Definitions:
 
 Convolution:
 Convolution is a process, which results in a single value produced by the weighted sum of the inputs from an interesting region of image/feature maps.
