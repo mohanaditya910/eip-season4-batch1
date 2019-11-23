@@ -1,9 +1,9 @@
-notebook for submission consideration: final_submission_max_12k_LRS_L1.ipynb
+notebook for **submission consideration: final_submission_max_12k_LRS_L1.ipynb**
 
-model.evaluate(X_test,Y_test) -----------  [0.05891113919615745, 0.9942].....highest val acc 99.48
+model.evaluate(X_test,Y_test) -----------  [0.05891113919615745, 0.9942].....**highest val acc 99.48**
 
-strategy:
-model structure: VGG inspired...
+**Strategy:**
+model structure: **VGG inspired...**
 
 all the techniques like Batch Normalization,Dropout,Learning rate scheduler (provided in the notebook reference is used) in
 the notebooks other than submission one..
@@ -33,7 +33,7 @@ this has given consistent values..of val_acc over 99.4 in epochs 11 to 20...
 
 this can be observed in logs...
 
-logs:
+**logs:**
 
 Train on 60000 samples, validate on 10000 samples
 Epoch 1/20
