@@ -1,8 +1,11 @@
+Team: Tigers
+Members: Mohanaditya R Reddi, Sucharitha V
+
 >*Base Model:* 
 
 validation accuracy-83.49..
 
-<*MODEL DEFINITION:*
+>*MODEL DEFINITION:*
 ```
 from keras.regularizers import l2
 d_m=1
